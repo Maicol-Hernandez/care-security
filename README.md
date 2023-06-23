@@ -74,3 +74,13 @@ En la mayoría de los servidores, estas extensiones están activadas por defecto
 - Editar los valores dentro del formulario.
 - Hacer clic él en botón "save", para guardar.
 - Si todo ha salido bien, será redireccionado a la tabla de "Documents".
+# 7.¿Cómo eliminar un documento?
+## Respuesta: Para eliminar un documento registrado en el sistema siga los siguientes pasos.
+
+- Hacer clic en el botón "Delete" ubicado dentro de la tabla "Documents".
+# 8.¿Cómo buscar por documento?
+## Respuesta: Para buscar por documento en el sistema siga los siguientes pasos.
+
+- Hacer clic sobre el campo "Search" ubicado en la parte superior derecha de la tabla "Documents".
+- Escribe el texto a buscar.
+- Serán mostrados los datos dentro de la tabla que coincidan con la búsqueda.
