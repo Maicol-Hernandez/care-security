@@ -39,3 +39,12 @@ En la mayoría de los servidores, estas extensiones están activadas por defecto
 - Escribe el comando en una nueva consola `npm install`.
 - Escribe el comando en una nueva consola `npm run dev`.
 - Pulse en la URL amigable generada por el comando `php artisan serve`.
+# 3.¿Cómo iniciar sesión al sistema?
+## Respuesta: Para iniciar sesión en el sitema siga los siguientes pasos.
+
+- Presione en el botón Log in.
+- Navegar a la página de Log in
+- Ingresar el campo Email el siguiente correo `test@example.com`.
+- Ingresar el campo Password la siguiente contraseña `test12345`.
+- Hacer clic en el botón de "Log in" para acceder al sistema.
+- Si todo ha salido bien, saldrá el siguiente mensaje "You're logged in!".
