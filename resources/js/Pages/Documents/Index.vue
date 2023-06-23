@@ -4,7 +4,7 @@ import DangerButton from '@/Components/DangerButton.vue';
 import TextInput from '@/Components/TextInput.vue';
 import { Head, Link, useForm } from '@inertiajs/vue3';
 import { ref, watch, defineProps } from "vue";
-import Swal from 'sweetalert2'
+// import Swal from 'sweetalert2'
 
 const props = defineProps({
     documents: { type: Object },
@@ -24,21 +24,21 @@ watch(search, (value) => {
 })
 
 const deleteDocument = async (id, name) => {
-    const alert = Swal.mixin({
-        buttonsStyling: true,
-    })
+    // const alert = Swal.mixin({
+    //     buttonsStyling: true,
+    // })
 
-    const result = await alert.fire({
-        title: `Are you sure delete ${name}`,
-        icon: 'question',
-        showCancelButton: true,
-        confirmButtonText: "Yes, Delete",
-        cancelButtonText: "Cancal"
-    })
+    // const result = await alert.fire({
+    //     title: `Are you sure delete ${name}`,
+    //     icon: 'question',
+    //     showCancelButton: true,
+    //     confirmButtonText: "Yes, Delete",
+    //     cancelButtonText: "Cancal"
+    // })
 
-    if (result.isConfirmed) {
-        form.delete(route('documents.destroy', id))
-    }
+    // if (result.isConfirmed) {
+    // }
+    form.delete(route('documents.destroy', id))
 }
 
 </script>
