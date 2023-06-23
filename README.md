@@ -66,3 +66,11 @@ En la mayoría de los servidores, estas extensiones están activadas por defecto
 - Llenar los campos requeridos para crear un nuevo documento.
 - Hacer clic él en botón "save", para guardar.
 - Si todo ha salido bien, será redireccionado a la tabla de "Documents".
+# 6.¿Cómo editar un documento?
+## Respuesta: Para editar un documento registrado en el sistema siga los siguientes pasos.
+
+- Hacer clic en el botón "Edit" ubicado dentro de la tabla "Documents".
+- Será redirigido hacia el formulario "Edit Document".
+- Editar los valores dentro del formulario.
+- Hacer clic él en botón "save", para guardar.
+- Si todo ha salido bien, será redireccionado a la tabla de "Documents".
