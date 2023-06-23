@@ -17,7 +17,8 @@ class TypeDocumentFactory extends Factory
     public function definition(): array
     {
         return [
-            //
+            'code' => $this->faker->randomElement(['CC', 'CON', 'TI', 'PEX', 'SDO']),
+            'name' => fake()->randomElement(['Cedula',  'Contraseña', 'Tarjeta de Identidad', 'Pasaporte extranjero', 'Sin documento']),
         ];
     }
 }
