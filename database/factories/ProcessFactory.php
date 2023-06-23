@@ -17,7 +17,8 @@ class ProcessFactory extends Factory
     public function definition(): array
     {
         return [
-            //
+            'code' => $this->faker->randomElement(['ASP', 'ADM', 'INS', 'PSE', 'SPR']),
+            'name' => $this->faker->randomElement(['Aspirantes',  'Admitidos', 'Inscripción', 'Proceso de Selección', 'Sin Proceso']),
         ];
     }
 }
