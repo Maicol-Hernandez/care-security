@@ -56,3 +56,13 @@ En la mayoría de los servidores, estas extensiones están activadas por defecto
 - Llenar los campos Name, Email, Password y Confirm Parssword.
 - Hacer clic en el botón de "Register" para acceder al sistema.
 - Si todo ha salido bien, saldrá el siguiente mensaje "You're logged in!".
+# 5.¿Cómo crear un nuevo documento?
+## Respuesta: Para agregar un documento nuevo en el sistema siga los siguientes pasos.
+
+- Presione en el botón ubicado en Navbar superior donde dice "Documents".
+- Navegar a la página de Documents.
+- Hacer clic en el botón "Add" ubicado en la parte superior de la tabla "Documents".
+- Será redirigido hacia el formulario "Create Document".
+- Llenar los campos requeridos para crear un nuevo documento.
+- Hacer clic él en botón "save", para guardar.
+- Si todo ha salido bien, será redireccionado a la tabla de "Documents".
