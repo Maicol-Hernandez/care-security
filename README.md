@@ -84,3 +84,11 @@ En la mayoría de los servidores, estas extensiones están activadas por defecto
 - Hacer clic sobre el campo "Search" ubicado en la parte superior derecha de la tabla "Documents".
 - Escribe el texto a buscar.
 - Serán mostrados los datos dentro de la tabla que coincidan con la búsqueda.
+# 9.¿Cómo cerrar sesión?
+## Respuesta: Para cerrar sesión en el sistema siga los siguientes pasos.
+
+- Hacer clic en el botón "Dashboard" ubicado en la parte superior izquierda del Navbar.
+- Será redirigido hacia el "Dashboard" del sistema.
+- Hacer clic en el botón "Profile" del usuario, ubicado en la parte superior derecha del Navbar.
+- Hacer clic él en botón "Log Out", para cerrar sesión.
+- Si todo ha salido bien, será redireccionado a la página inicio del sistema.
