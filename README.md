@@ -48,3 +48,11 @@ En la mayoría de los servidores, estas extensiones están activadas por defecto
 - Ingresar el campo Password la siguiente contraseña `test12345`.
 - Hacer clic en el botón de "Log in" para acceder al sistema.
 - Si todo ha salido bien, saldrá el siguiente mensaje "You're logged in!".
+# 4.¿Cómo registrarse en el sistema?
+## Respuesta: Para registrarse en el sitema siga los siguientes pasos.
+
+- Presione en el botón Register.
+- Navegar a la página de Registe.
+- Llenar los campos Name, Email, Password y Confirm Parssword.
+- Hacer clic en el botón de "Register" para acceder al sistema.
+- Si todo ha salido bien, saldrá el siguiente mensaje "You're logged in!".
